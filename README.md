@@ -4,6 +4,15 @@ Welcome to the Smart Todo List, a full-stack application that combines a powerfu
 
 ## 📸 Screenshots
 
+![Screenshot 2025-07-05 215343](https://github.com/user-attachments/assets/6175c10a-3fd1-40e8-bb47-70694a27aea3)
+
+![Screenshot 2025-07-05 215358](https://github.com/user-attachments/assets/3bb606e7-dec6-45e3-8978-e20c72245969)
+![Screenshot 2025-07-06 013259](https://github.com/user-attachments/assets/fbc05b92-6727-4ba9-a450-eafc235eacc2)
+![Screenshot 2025-07-06 013315](https://github.com/user-attachments/assets/140bab7e-ded9-4870-afa9-e4206bc29521)
+
+![Screenshot 2025-07-06 013324](https://github.com/user-attachments/assets/7fca09c1-d039-42ab-aa8f-e3df966a8368)
+![Screenshot 2025-07-06 013339](https://github.com/user-attachments/assets/35cb2bb0-6954-465d-8592-ead349a1ba64)
+
 Here's a glimpse of the clean and intuitive user interface you'll be working with.
 
 | Dashboard Overview                                                                                             | Task Management View                                                                                             | AI Insights & Recommendations                                                                                             |
