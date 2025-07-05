@@ -4,9 +4,6 @@ Welcome to the Smart Todo List, a full-stack application that combines a powerfu
 
 ## 📸 Screenshots
 
-![Screenshot 2025-07-05 215343](https://github.com/user-attachments/assets/6175c10a-3fd1-40e8-bb47-70694a27aea3)
-
-![Screenshot 2025-07-05 215358](https://github.com/user-attachments/assets/3bb606e7-dec6-45e3-8978-e20c72245969)
 ![Screenshot 2025-07-06 013259](https://github.com/user-attachments/assets/fbc05b92-6727-4ba9-a450-eafc235eacc2)
 ![Screenshot 2025-07-06 013315](https://github.com/user-attachments/assets/140bab7e-ded9-4870-afa9-e4206bc29521)
 
